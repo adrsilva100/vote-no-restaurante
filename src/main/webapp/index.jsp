@@ -1,0 +1,1 @@
+<% response.sendRedirect("votacao/restaurante"); %>
